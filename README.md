@@ -2,7 +2,7 @@
 studentID:110550086
 Name:簡宥文
 ## Introduction
-Load a pre-trained ResNet34 and add the CBAM module to ResNet34. Finally, add a fully connected (fc) layer to make the output compatible with 100 classes.
+Load a pre-trained ResNet50 and add the CBAM module to ResNet50. Finally, add a fully connected (fc) layer to make the output compatible with 100 classes.
 ## How to install
 Use conda to create environment and install packets.
 
