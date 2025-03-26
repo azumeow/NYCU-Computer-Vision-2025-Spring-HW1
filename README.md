@@ -6,4 +6,5 @@ Load a pre-trained ResNet50 and add the CBAM module to ResNet50. Finally, add a 
 ## How to install
 Use conda to create environment and install packets.
 ## Performance snapshot
-![image](https://github.com/user-attachments/assets/09c5200d-73e9-4a92-bd90-e26777bc707f)
+![image](https://github.com/user-attachments/assets/dde1a9e9-0054-4275-a06a-e34a52c39968)
+
